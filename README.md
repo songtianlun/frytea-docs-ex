@@ -9,6 +9,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/blob/master/LICENSE)
 [![GitHub Actions status](https://github.com/songtianlun/frytea-docs/workflows/github%20pages/badge.svg)](https://github.com/songtianlun/frytea-docs/actions)
+[![GitHub stars](https://img.shields.io/github/stars/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/network)
 
 <!-- https://shields.io/ -->
 <!-- https://microbadger.com/ -->
