@@ -3,9 +3,6 @@
 <br>Frytea's MkDocs Material<br>Boilerplate - Starter Kit
 </h1>
 
-![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/master/docs_sample/images/material.png)
-
-
 
 [![GitHub license](https://img.shields.io/github/license/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/blob/master/LICENSE)
 [![GitHub Actions status](https://github.com/songtianlun/frytea-docs/workflows/github%20pages/badge.svg)](https://github.com/songtianlun/frytea-docs/actions)
@@ -17,7 +14,9 @@
 
 
 
-## Details
+## MkDocs Material Boilerplate
+
+### Documentation
 
 Read more 👉 [Documentation - MkDocs Material Boilerplate]
 
@@ -25,7 +24,7 @@ Read more 👉 [Documentation - MkDocs Material Boilerplate]
 
 
 
-## Quick start
+### Quick start
 
 ```sh
 git clone https://github.com/peaceiris/mkdocs-material-boilerplate.git
@@ -34,6 +33,11 @@ pipenv sync --dev
 pipenv shell
 inv serve --config-file mkdocs-sample.yml
 ```
+
+
+### Support author
+
+- [Amazon wish list](http://amzn.asia/ilWK0Yj)
 
 ## GitHub Action
 
@@ -91,14 +95,8 @@ When you push to master branch, GitHub Actions runs.
 - [MIT License]
 - [The graduate cap icon] made by [Freepik] from [www.flaticon.com] is licensed by [CC 3.0 BY]
 
-[MIT License]: https://github.com/peaceiris/mkdocs-material-boilerplate/blob/master/LICENSE
+[MIT License]: https://github.com/songtianlun/frytea-docs/blob/master/LICENSE
 [The graduate cap icon]: https://www.flaticon.com/free-icon/graduate-cap_62627
 [Freepik]: https://www.freepik.com/
 [www.flaticon.com]: https://www.flaticon.com/
 [CC 3.0 BY]: http://creativecommons.org/licenses/by/3.0/
-
-
-
-## Support author
-
-- [Amazon wish list](http://amzn.asia/ilWK0Yj)
