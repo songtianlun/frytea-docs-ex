@@ -1,6 +1,6 @@
 # Project information
-site_name: 'Frytea Material Docs Material'
-site_description: 'MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with GitHub Actions, CircleCI, Docker, pipenv, and CI/CD'
+site_name: 'Frytea Material Docs'
+site_description: 'Technology, Android, CI/CD, Git, Cloud Company, Gis, Web, PipeLine and so on.'
 site_author: 'Frytea'
 site_url: 'https://dev.frytea.com/frytea-docs'
 
