@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://mkdocs.peaceiris.com/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/material-for-mkdocs/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/material-for-mkdocs/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/getting-started/download-boilerplate/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/getting-started/download-boilerplate/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/getting-started/pipenv/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/getting-started/pipenv/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/getting-started/invoke/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/getting-started/invoke/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/getting-started/docker/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/getting-started/docker/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/getting-started/pip/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/getting-started/pip/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/combinations/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/hosting-and-deployment/combinations/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/netlify/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/hosting-and-deployment/netlify/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/github-pages/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/hosting-and-deployment/github-pages/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/gitlab-pages/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/hosting-and-deployment/gitlab-pages/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/aws-amplify-console/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/hosting-and-deployment/aws-amplify-console/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/extensions/mathjax/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/extensions/mathjax/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/extensions/code-hilite/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/extensions/code-hilite/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/extensions/footnote/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/extensions/footnote/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://mkdocs.peaceiris.com/license/</loc>
+     <loc>https://dev.frytea.com/frytea-docs/license/</loc>
      <lastmod>2019-11-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
