@@ -1,16 +1,16 @@
 # Project information
-site_name: 'MkDocs Material Boilerplate'
+site_name: 'Frytea's Material Docs Material'
 site_description: 'MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with GitHub Actions, CircleCI, Docker, pipenv, and CI/CD'
-site_author: 'peaceiris'
+site_author: 'Frytea'
 site_url: 'https://dev.frytea.com/frytea-docs'
 
 # Copyright
-copyright: '&copy; 2019 peaceiris'
+copyright: '&copy; 2019 frytea'
 
 # Repository
 repo_name: 'GitHub'
-repo_url: 'https://github.com/songtianlun/mkdocs-material-boilerplate'
-edit_uri: 'https://github.com/songtianlun/mkdocs-material-boilerplate/edit/master/docs_sample'
+repo_url: 'https://github.com/songtianlun/frytea-docs'
+edit_uri: 'https://github.com/songtianlun/frytea-docs/edit/master/docs_sample'
 
 # Configuration
 docs_dir: 'docs_sample'
@@ -30,8 +30,8 @@ theme:
   #font:
     #text: 'Ubuntu'
     #code: 'Ubuntu Mono'
-  #logo:
-    #icon: 'images/logo.svg'
+  logo:
+    icon: 'https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png'
   #favicon: 'assets/images/favicon.ico'
 
 # Extensions
