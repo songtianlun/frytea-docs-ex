@@ -7,8 +7,8 @@
 
 
 
-[![license](https://img.shields.io/github/license/songtianlun/mkdocs-material-boilerplate.svg)](https://github.com/songtianlun/mkdocs-material-boilerplate/blob/master/LICENSE)
-[![GitHub Actions status](https://github.com/songtianlun/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/songtianlun/mkdocs-material-boilerplate/actions)
+[![GitHub license](https://img.shields.io/github/license/songtianlun/frytea-docs)](https://github.com/songtianlun/frytea-docs/blob/master/LICENSE)
+[![GitHub Actions status](https://github.com/songtianlun/frytea-docs/workflows/github%20pages/badge.svg)](https://github.com/songtianlun/frytea-docs/actions)
 
 <!-- https://shields.io/ -->
 <!-- https://microbadger.com/ -->
