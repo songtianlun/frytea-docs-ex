@@ -30,8 +30,8 @@ theme:
   #font:
     #text: 'Ubuntu'
     #code: 'Ubuntu Mono'
-  logo:
-    icon: 'https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png'
+  #logo:
+    #icon: 'https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png'
   #favicon: 'assets/images/favicon.ico'
 
 # Extensions
