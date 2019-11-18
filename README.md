@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png" alt="Frytea logo" width="223">
-<br>Frytea's MkDocs Material<br>Boilerplate - Starter Kit
+<br>Frytea's Material Docs
 </h1>
 
 
