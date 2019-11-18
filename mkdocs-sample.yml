@@ -1,5 +1,5 @@
 # Project information
-site_name: 'Frytea's Material Docs Material'
+site_name: 'Frytea Material Docs Material'
 site_description: 'MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with GitHub Actions, CircleCI, Docker, pipenv, and CI/CD'
 site_author: 'Frytea'
 site_url: 'https://dev.frytea.com/frytea-docs'
@@ -30,8 +30,8 @@ theme:
   #font:
     #text: 'Ubuntu'
     #code: 'Ubuntu Mono'
-  #logo:
-    #icon: 'https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png'
+  logo:
+    icon: 'https://raw.githubusercontent.com/songtianlun/frytea-docs/master/docs_sample/images/Frytea-logo-green-3x.png'
   #favicon: 'assets/images/favicon.ico'
 
 # Extensions
